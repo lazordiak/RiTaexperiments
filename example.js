@@ -56,7 +56,7 @@ function draw() {
     fill(255);
     textSize(40);
     textFont('Helvetica');
-    text("Just for you",windowWidth/2,250);
+    text("I wrote it for you",windowWidth/2,250);
     fill(255);
     textSize(40);
     textFont('Helvetica');
