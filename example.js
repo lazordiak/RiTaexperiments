@@ -70,8 +70,6 @@ function draw() {
 
     word1 = RiTa.randomWord("JJ");
     word2 = RiTa.randomWord("JJ");
-    console.log(word1);
-    console.log(word2);
 
     fill(255);
     textSize(40);
